@@ -5,6 +5,8 @@ modulated delay for wow and flutter, adjustable tape aging, saturation, hiss,
 and random dropouts. The circuit's audio path is mono; the firmware sends the
 processed signal to both Seed outputs for the Terrarium's mono output stage.
 
+<img width="899" height="900" alt="PXL_20261029_160026733~2" src="https://github.com/user-attachments/assets/b11404c3-c582-4573-b723-9f72f0fc25ef" />
+
 Terrarium hardware reference: [PedalPCB Terrarium Platform](https://www.pedalpcb.com/product/pcb351/).
 
 ## Controls
